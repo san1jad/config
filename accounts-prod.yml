@@ -3,5 +3,5 @@ build:
 accounts:
   message: "Welcome to support production"
   contactDetails:
-    name: "sam production"
+    name: "sam production tttt"
     email: "testproduction@test.com"
