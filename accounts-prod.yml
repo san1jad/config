@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to support prod"
+  message: "Welcome to support proddddddddddd"
   contactDetails:
     name: "sam production tttt"
     email: "{cipher}a8b3b937fa61111e62c50fd8e9952cc0f4c5da769be771fedc0a42c66aeb01cfb7a6985c18370e916233268ff4a63e26"
